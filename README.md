@@ -1,0 +1,1 @@
+This is a Genai text generation project using docker and huggingface
