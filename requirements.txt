@@ -1,0 +1,7 @@
+fastapi==0.74.*
+uvicorn[standard]==0.17.*
+requests==2.27.*
+pandas
+sentencepiece==0.1.*
+torch==2.5.0
+transformers==4.*
